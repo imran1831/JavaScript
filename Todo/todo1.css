@@ -1,0 +1,48 @@
+*{
+    margin: 0;padding: 0;
+}
+.bg-container{
+    color:crimson;
+    background-color:rgb(196, 239, 255);
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    
+}
+.inputcontainer{
+    width: 100vw;
+}
+.list-container{
+    text-align: center;
+    align-items: center;
+}
+.ulel{
+    list-style: none;
+    margin-left:500px;
+    margin-top: 10px;
+}
+.liel{
+    display: flex;
+    margin-bottom: 10px;
+    /* margin:0px 150px 0px 20px;*/
+}
+.labcon{
+    background-color: white;
+    border-radius: 5px;
+    border-left: 5px solid rgb(0, 128, 62);
+    color: chocolate;
+    padding: 10px;
+    height: fit-content;
+    width: 450px;
+    display: flex;
+    /* margin-right: 150px; */
+}
+.delete{
+    margin-left: auto;
+}
+.checkel{
+    margin-right: 5px;
+}
+.checked{
+    text-decoration:line-through;
+}
